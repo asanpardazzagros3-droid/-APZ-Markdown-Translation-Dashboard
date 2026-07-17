@@ -1,0 +1,9 @@
+The system can send alerts via Telegram and/or Discord when:
+
+· A new translation is submitted.
+· A translation is approved.
+· A document is updated.
+
+Configure the appropriate environment variables to enable these channels. If both are set, notifications are sent to both.
+
+---
